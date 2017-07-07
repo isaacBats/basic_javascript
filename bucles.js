@@ -1,7 +1,7 @@
 'use strict'
 
 // Cuanto corro
-const dias = ['lunes', 'martes', 'miércoles', 'jueves', 'viernes', 'sábado', 'domingo']
+const dias = ['domingo', 'lunes', 'martes', 'miércoles', 'jueves', 'viernes', 'sábado']
 const name = 'Isaac'
 
 function correr() {
